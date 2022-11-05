@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/GetYourJab_2022/static/css/main.0cf523ea.chunk.css",
+    "main.js": "/GetYourJab_2022/static/js/main.887e305c.chunk.js",
+    "main.js.map": "/GetYourJab_2022/static/js/main.887e305c.chunk.js.map",
+    "runtime-main.js": "/GetYourJab_2022/static/js/runtime-main.a834f62b.js",
+    "runtime-main.js.map": "/GetYourJab_2022/static/js/runtime-main.a834f62b.js.map",
+    "static/js/2.cf75a883.chunk.js": "/GetYourJab_2022/static/js/2.cf75a883.chunk.js",
+    "static/js/2.cf75a883.chunk.js.map": "/GetYourJab_2022/static/js/2.cf75a883.chunk.js.map",
+    "static/js/3.f2356942.chunk.js": "/GetYourJab_2022/static/js/3.f2356942.chunk.js",
+    "static/js/3.f2356942.chunk.js.map": "/GetYourJab_2022/static/js/3.f2356942.chunk.js.map",
+    "index.html": "/GetYourJab_2022/index.html",
+    "static/css/main.0cf523ea.chunk.css.map": "/GetYourJab_2022/static/css/main.0cf523ea.chunk.css.map",
+    "static/js/2.cf75a883.chunk.js.LICENSE.txt": "/GetYourJab_2022/static/js/2.cf75a883.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a834f62b.js",
+    "static/js/2.cf75a883.chunk.js",
+    "static/css/main.0cf523ea.chunk.css",
+    "static/js/main.887e305c.chunk.js"
+  ]
+}
