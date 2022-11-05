@@ -59,15 +59,21 @@ h1{
 
 .about{
     display: flex;
+    justify-content: center;
+    align-items:center;
     .aboutSection{
-        h1{
-            margin-top: 10rem;
-            margin-left: 6rem;
-        }
-        h3{
-            margin-top: 1rem;
-            margin-left: 6rem;
-        }
+    display: flex;
+    flex-direction: column; 
+        justify-content: center;
+        align-items:center;
+        // h1{
+        //     margin-top: 10rem;
+        //     margin-left: 6rem;
+        // }
+        // h3{
+        //     margin-top: 1rem;
+        //     margin-left: 6rem;
+        // }
     }
 .gradient{
     // height:20rem;
@@ -155,7 +161,27 @@ h1{
   .card{
     margin-top:1rem;
   }
-  
+.landing_imp{
+    // height:5rem;
+    // width: 5rem;
+    display:flex;
+    justify-content: center;
+
+   .landing_imp_card{
+    // background-color: rgb(204, 213, 174);
+    // background-color: rgb(215, 231, 124);
+    // background-color: rgb(88, 129, 87);
+    background: #3A5A40;
+   }
+   .landing_imp_content{
+    background-color: rgb(204, 213, 174);
+        // background-color: rgb(215, 231, 124);
+        // background-color: rgb(88, 129, 87);
+   }
+}
+.container{
+    padding:5rem 0rem 0rem 0rem;
+}
 //   .button submit{
 //     margin-top:10px;
 //   }
