@@ -1,0 +1,43 @@
+.formAlignCenter{
+    margin-top: 3rem;
+    align-items: flex-start;
+    text-align: center;
+}
+
+h1{
+    font-size: 1.6rem;
+}
+
+.centerDetails{
+    font-size: .9rem;
+    width: 5rem;
+}
+
+.centerStyleGrid{
+    align-items: center;
+    text-align: center;
+    display: grid;
+    grid-column-gap: 1rem;
+    grid-row-gap: 2rem;
+    grid-template-columns: auto auto auto;
+    background-color: transparent;
+    padding: 10px;
+    justify-content: center;
+    color: rgba(0, 0, 0, 0.555);
+.centerStyle{
+    width: 20rem;
+    height: 20rem;
+    border: 2px solid rgb(138, 148, 148);
+    background-color: rgb(198, 211, 211);
+    &:hover{
+        background-color: whitesmoke;
+        border-radius: 20px;
+    }
+    h1{
+        color: black;
+        font-weight: normal;
+        border-bottom: 2px groove white;
+        border-radius: 10px;
+    }
+    }
+}
